@@ -42,7 +42,9 @@ tech companies like _Yelp!_, _reddit_, and _DropBox_.
 
 That being said, SQLAlchemy is a _very_ powerful library, and we will only
 cover a small fraction of its capabilities in this curriculum. There are many
-fantastic resources available to you for free online or through Flatiron.
+fantastic resources available to you for free online or through Flatiron that
+will allow you to continue to learn all about SQLAlchemy as you proceed through
+your career.
 
 ***
 
