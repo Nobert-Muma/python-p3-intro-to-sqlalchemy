@@ -31,16 +31,26 @@ but it has some distinct limitations:
 In order to address these concerns, several groups of programmers began
 development on ORMs that had a broad range of compatibilites and functionality,
 robust documentation, and regular maintenance to keep up with evolving
-programming languages. In our curriculum, we will be working with SQLAlchemy,
-a popular Python ORM.
+programming languages.
 
-SQLAlchemy is a great tool because it covers 
+In our curriculum, we will be working with
+[SQLAlchemy](https://www.sqlalchemy.org/), a popular Python ORM. There are
+several other popular Python ORMS- most notably the
+[Django](https://www.djangoproject.com/) ORM- but SQLAlchemy provides us the
+most functionality without too much that we don't need. It is used by many big
+tech companies like _Yelp!_, _reddit_, and _DropBox_.
+
+That being said, SQLAlchemy is a _very_ powerful library, and we will only
+cover a small fraction of its capabilities in this curriculum. There are many
+fantastic resources available to you for free online or through Flatiron.
 
 ***
 
 ## Resources
 
-- [Resource 1](https://www.python.org/doc/essays/blurb/)
-- [Reused Resource][reused resource]
-
-[reused resource]: https://docs.python.org/3/
+- [Python 3.8.13 Documentation - Python](https://docs.python.org/3.8/)
+- [sqlite3 — DB-API 2.0 interface for SQLite databases - Python](https://docs.python.org/3/library/sqlite3.html)
+- [SQLAlchemy ORM Documentation - SQLAlchemy](https://docs.sqlalchemy.org/en/14/orm/)
+- [SQLAlchemy — Python Tutorial - Towards Data Science](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)
+- [Alembic 1.8.1 Documentation - SQLAlchemy](https://alembic.sqlalchemy.org/en/latest/)
+- [Tutorial (Alembic) - SQLAlchemy](https://alembic.sqlalchemy.org/en/latest/tutorial.html)
