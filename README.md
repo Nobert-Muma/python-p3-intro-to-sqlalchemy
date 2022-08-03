@@ -10,6 +10,7 @@
 
 ## Key Vocab
 
+- **Persist**: save a schema in a database.
 - **Migration**: the process of moving data from one or more databases to one
   or more target databases.
 
